@@ -8,3 +8,13 @@
 >GitHub: [PavelVoranau](https://github.com/PavelVoranau)
 >Discord:[sergeenko(PavelVoranau)#1622](https://discord.com/channels/@me)
  ***
+ #### About me
+ I am currently taking a free course «JavaScript/Front-end» from The Rolling Scopes community. I am also trying to learn English on my own. Ready to learn and acquire new knowledge and skills.
+ ***
+ ##### Education
+  [BELARUSIAN STATE PEDAGOGICAL UNIVERSITY NAMED AFTER MAXIM TANK](https://bspu.by/)
+ ***
+###### Languages
+- Belarusian - speak well.
+- English - A1 (A2 in process)
+- Russian - native speaker
