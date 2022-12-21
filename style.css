@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+  }
+body {
+    font-size: 18px;
+    color: black;
+    background-color: rgb(63, 109, 106);
+}
+.nav {
+    text-align: center; 
+}
+.menu {
+ padding: 0px;
+ background-color: rgba(56, 77, 94, 0.623);
+ margin: 0px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ border-radius: 15px;
+
+}
+.menu li { 
+    display: inline;
+    padding-right: 80px;
+    }
+.menu li a {
+    text-decoration: none;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    color: black;
+}
+.img {
+    text-align: center;
+    margin: 5px;
+}
+.img img { 
+    border-radius: 20px;
+}
+.pavel {
+    text-align: center;
+    margin: 5px;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+}
